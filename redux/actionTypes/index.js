@@ -1,0 +1,4 @@
+export const ADD_IMAGE = 'ADD_IMAGE';
+export const ADD_AVATAR = 'ADD_AVATAR';
+export const CHANGE_FIRST_NAME = 'CHANGE_FIRST_NAME';
+export const CHANGE_LAST_NAME = 'CHANGE_LAST_NAME';
